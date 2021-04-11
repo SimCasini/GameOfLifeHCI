@@ -1,6 +1,6 @@
 # GameOfLifeHCI
 
-REQUIREMENTS:
+## REQUIREMENTS:
 
 -numpy
 
@@ -11,10 +11,10 @@ REQUIREMENTS:
 
 View creata con QtDesigner
 
-Per lanciare il gioco eseguire il run di main.py:  
+**Per lanciare il gioco eseguire il run di main.py:  **
 python main.py
 
-Funzionalità realizzate:
+##  Funzionalità realizzate:
 
 -Applicazione delle regole del Game of Life di Conway in una simulazione
 
