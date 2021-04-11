@@ -11,7 +11,7 @@
 
 View creata con QtDesigner
 
-**Per lanciare il gioco eseguire il run di main.py:  **
+## Per lanciare il gioco eseguire il run di main.py: 
 python main.py
 
 ##  Funzionalità realizzate:
