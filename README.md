@@ -7,7 +7,7 @@ PyQt5
 
 View creata con QtDesigner
 
-ESEGUIRE IL COMANDO:
+Per lanciare il gioco eseguire il run di main.py:
 python main.py
 
 Funzionalità realizzate:
