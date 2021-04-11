@@ -2,11 +2,11 @@
 
 REQUIREMENTS:
 
-numpy
+-numpy
 
-scipy
+-scipy
 
-PyQt5
+-PyQt5
 
 
 View creata con QtDesigner
